@@ -1,0 +1,2 @@
+# softcomputing
+Soft computing project
